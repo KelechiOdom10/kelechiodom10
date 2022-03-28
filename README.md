@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 👨‍💻  About Me :
 I am a Full Stack Developer based in the UK.
 
-🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications
+🔭 I’m working at bp as a Software Engineer and contributing to frontend and backend for building web and mobile applications
 
 🌱 I'm currently learning about building scalable APIs with .NET and freelancing
 
