@@ -42,7 +42,6 @@ I am a Full Stack Developer based in the UK.
   <img src="https://img.shields.io/badge/CSS-0F6BB4?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-58C2DF?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/></a>&nbsp 
-  
   <br>
   <img src="https://img.shields.io/badge/NestJS-DA234B?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/></a>&nbsp
@@ -50,6 +49,8 @@ I am a Full Stack Developer based in the UK.
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GraphQL-DC0193?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Docker-0897E5?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white"/></a>&nbsp 
