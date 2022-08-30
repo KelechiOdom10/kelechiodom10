@@ -50,7 +50,9 @@ I am a Full Stack Developer based in the UK.
   <img src="https://img.shields.io/badge/GraphQL-DC0193?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white"/></a>&nbsp
+ 
   <br>
   <img src="https://img.shields.io/badge/Docker-0897E5?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white"/></a>&nbsp 
