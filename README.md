@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 👨‍💻  About Me :
 I am a Full Stack Developer based in the UK.
 
-🔭 I’m working at bp as a Software Engineer and contributing to frontend and backend for building web and mobile applications
+🔭 I’m working at bp as a Software Engineer and contributing to frontend and backend for building web and mobile applications for fleet solutions
 
-🌱 I'm currently learning about building scalable APIs with .NET and freelancing
+🌱 I'm currently learning about building scalable APIs with NestJS, design systems and freelancing
 
-⚡ In my free time I love watching and playing football (Arsenal fan 🥲) as well as gaming
+⚡ In my free time I love watching and playing football (Arsenal fan 🙂) as well as gaming
 
 📫 How to reach me: 
 
