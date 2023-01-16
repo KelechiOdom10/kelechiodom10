@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 👨‍💻  About Me :
 I am a Full Stack Developer based in the UK.
 
-🔭 I’m working at bp as a Software Engineer and contributing to frontend and backend for building web and mobile applications for fleet solutions
+🔭 I’m working at Robin AI as a Frontend Engineer
 
-🌱 I'm currently learning about building scalable APIs with NestJS, design systems and freelancing
+🌱 I'm currently learning about building design systems with tailwind and storybook, monorepos and freelancing
 
 ⚡ In my free time I love watching and playing football (Arsenal fan 🙂) as well as gaming
 
