@@ -31,7 +31,7 @@ I am a Full Stack Developer based in the UK.
 ---
 <h3>🛠 Tech Stack 🛠</h3>
 
-<p> Technologies that I've used at least once </p>
+<p> Technologies that I can confidently use </p>
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
