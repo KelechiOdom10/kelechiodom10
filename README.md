@@ -22,7 +22,7 @@ I am a Senior Software Engineer based in the UK.
 
 🔭 I’m working at Robin AI
 
-🌱 I'm currently learning about building design systems with tailwind and storybook, monorepos and freelancing
+🌱 I'm currently learning about everything AI related, building design systems with tailwind and storybook and monorepos 
 
 ⚡ In my free time I love watching and playing football (Arsenal fan 🙂) as well as gaming
 
