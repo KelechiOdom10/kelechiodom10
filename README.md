@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 👨‍💻  About Me :
-I am a Full Stack Developer based in the UK.
+I am a Senior Software Engineer based in the UK.
 
-🔭 I’m working at Robin AI as a Frontend Engineer
+🔭 I’m working at Robin AI
 
 🌱 I'm currently learning about building design systems with tailwind and storybook, monorepos and freelancing
 
