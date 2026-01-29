@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 👨‍💻  About Me :
 I am a Senior Software Engineer based in the UK.
 
-🔭 I’m working at Robin AI
+🔭 I’m working at Humaans
 
-🌱 I'm currently learning about everything AI related, building design systems with tailwind and storybook and monorepos 
+🌱 I'm currently learning about everything AI related, building e2e scalable systems
 
-⚡ In my free time I love watching and playing football (Arsenal fan 🙂) as well as gaming
+⚡ In my free time I love watching and playing football (Arsenal fan 🙂) as well as gaming (Marvel Rivals ADDICT)
 
 📫 How to reach me: 
 
