@@ -62,4 +62,4 @@ I am a Senior Software Engineer based in the UK.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelechiodom10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=kelechiodom10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
